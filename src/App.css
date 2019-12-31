@@ -4,12 +4,9 @@
   text-align: center;
 }
 
-.PriceList .ant-row {
-  border: 1px solid #000;
-  margin: 0px -1px -1px 0px;
+.list-content {
+  weight: 100%;
+  background-color: red;
 }
 
-.PriceList .ant-row .ant- {
-  border: 1px solid #000;
-  margin: 0px -1px -1px 0px;
-}
+

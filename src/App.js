@@ -16,12 +16,12 @@ const items = [
   },
   {
     id: '2',
-    title: '吃饭',
+    title: '旅游',
     price: '13',
     date: '2019-08-31',
     category: {
       id: '2',
-      name: '食',
+      name: '住',
       type: 'out',
     }
   }
